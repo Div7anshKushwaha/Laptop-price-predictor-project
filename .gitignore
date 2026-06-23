@@ -1,2 +1,3 @@
-.ipyby_checkpoints
-anaconda_projects
+.ipynb_checkpoints/
+__pycache__/
+anaconda_projects/
